@@ -1,0 +1,31 @@
+{
+  "name": "suman-speed-benchmarking",
+  "version": "0.0.1001",
+  "description": "Various scripts to benchmark speed of Suman test runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "Suman"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanjs/suman-speed-benchmarking.git"
+  },
+  "keywords": [
+    "Suman",
+    "testing",
+    "test",
+    "runner",
+    "node.js",
+    "Mocha",
+    "AVA"
+  ],
+  "author": "Olegzandr and co.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumanjs/suman-speed-benchmarking/issues"
+  },
+  "homepage": "https://github.com/sumanjs/suman-speed-benchmarking#readme",
+  "dependencies": {
+    "async": "^2.1.4"
+  }
+}
