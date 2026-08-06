@@ -62,3 +62,7 @@ typings/
 .idea
 
 
+tmp
+temp
+tmp/worktrees
+temp/worktrees
